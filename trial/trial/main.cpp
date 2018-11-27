@@ -2,8 +2,6 @@
 //  main.cpp
 //  trial
 //
-//  Created by 刘佳 on 2018/11/27.
-//  Copyright © 2018 刘佳. All rights reserved.
 //
 
 #include <iostream>
